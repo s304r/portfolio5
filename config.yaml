@@ -24,9 +24,9 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
+    name: "Shankar Raman"
     tagline: Title
-    location: "City Name, ST"
+    location: "Chandler, AZ"
     photo: profile.jpg
   social:
     title: Links
